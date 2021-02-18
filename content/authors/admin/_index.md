@@ -47,6 +47,10 @@ social:
   icon_pack: fab
   link: https://github.com/cvanwynsberghe
 
+- icon: medium
+  icon_pack: fab
+  link: https://cvanwynsberghe.medium.com/
+
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCuA-bTnvkixTHpOAxI-YfTQ
